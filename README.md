@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 I am a dedicated student with a passion for learning and building with code. I enjoy exploring new programming concepts, solving problems, and developing practical solutions.
 
 ## 🛠️ Skills
-- **Programming Languages:** Python (primary)
+- **Programming Languages:** Python (primary),c++,c
 - **Interests:** Algorithms, automation, project development
 
 ## 📂 Featured Repository
